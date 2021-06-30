@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IAMRHYTHM
+- 👋 Hi, @IAMRHYTHM
 - 👀 I’m interested in creating python programs that may change or ease some task
 - 🌱 I’m currently learning data, big data pretty much everything related to data
 - 💞️ I’m looking to collaborate on tensorflow
