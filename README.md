@@ -1,4 +1,4 @@
-- 👋 Hi, @IAMRHYTHM
+ 👋 Hi, @IAMRHYTHM
 - 👀 I’m interested in creating python programs that may change or ease some task
 - 🌱 I’m currently learning IOS Development
 - 💞️ I’m looking to collaborate on flutter
