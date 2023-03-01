@@ -1,6 +1,6 @@
  👋 Hi, @IAMRHYTHM
-- 👀 I’m interested in creating python programs that may change or ease some task
-- 🌱 I’m currently learning IOS Development
+- 👀 I’m interested in working as software tester
+- 🌱 I’m currently learning selenium with python
 - 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me rhythmiscoding@gmail.com
 
